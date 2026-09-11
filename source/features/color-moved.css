@@ -1,0 +1,7 @@
+.rgh-color-moved-addition {
+	background-color: var(--bgColor-done-muted) !important;
+}
+
+.rgh-color-moved-deletion {
+	background-color: var(--bgColor-danger-muted) !important;
+}
